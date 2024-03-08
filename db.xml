@@ -1,0 +1,41 @@
+<data>
+    <topic name="Animal Things">
+        <note name="Dogs are better than cats 03">
+            <text>
+            Dogs respond when you call their name (unlike cats, who just ignore you)
+            </text>
+            <timestamp>
+            03/16/21 - 14:03:04
+            </timestamp>
+        </note>
+    </topic>
+    <topic name="Binary tree">
+        <note name="2-3 tree">
+            <text>
+            Each node has one or two keys
+            </text>
+            <timestamp>
+            03/08/2024 - 23:22:00
+            </timestamp>
+        </note>
+        <note name="Complete binary tree">
+            <text>Wikipedia Summary for 'Binary tree': In computer science, a binary tree is a tree data structure in which each node has at most two children, referred to as the left child and the right child. That is, it is a k-ary tree with k = 2. A recursive definition using set theory is that a binary tree is a tuple (L, S, R), where L and R are binary trees or the empty set and S is a singleton set containing the root.From a graph theory perspective, binary trees as defined here are arborescences. Read more: https://en.wikipedia.org/wiki/Binary_tree
+            </text>
+            <timestamp>
+            03/08/2024 - 23:23:43
+            </timestamp>
+        </note>
+        <note name="2-3 tree">
+            <text>Wikipedia Summary for '2&#8211;3 tree': In computer science, a 2&#8211;3 tree is a tree data structure, where every node with children (internal node) has either two children (2-node) and one data element or three children (3-nodes) and two data elements. A 2&#8211;3 tree is a B-tree of order 3. Nodes on the outside of the tree (leaf nodes) have no children and one or two data elements. Read more: https://en.wikipedia.org/wiki/2&#8211;3_tree
+            </text>
+            <timestamp>03/08/2024 - 23:34:08</timestamp>
+        </note>
+    </topic>
+    <topic name="data structure">
+        <note name="Hashing">
+            <text>Wikipedia Summary for 'Hash': Hash, hashes, hash mark, or hashing may refer to: Read more: https://en.wikipedia.org/wiki/Hash
+            </text>
+            <timestamp>03/08/2024 - 23:25:37</timestamp>
+        </note>
+    </topic>
+</data>
